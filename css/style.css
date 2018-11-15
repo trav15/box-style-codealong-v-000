@@ -34,12 +34,15 @@ figcaption {
 
 .border-right {
   border-right: 1px dotted #ccc;
-  padding-right: 30px; 
+  padding-right: 30px;
 }
 
 /*////////// BACKGROUNDS //////////*/
 
-
+.white-wood {
+  background: url(../images/white-wood.jpg) no-repeat center top;
+  background-size: cover;
+}
 
 /*/////// MEDIA ////////*/
 
